@@ -46,6 +46,7 @@ with st.sidebar:
         - **Upload a PDF:** Upload the Declaration PDF.
         - **Enter your prompt:** Ask legal-related queries.
         - **Chat:** Engage in a legal conversation.
+        - **Theme:** change the theme to light mode
         """
     )
 
@@ -71,10 +72,10 @@ if submit_button:
     else:
         st.chat_message("user").write(user_query)
 
-        # Retrieve documents (Needed for AI but not displayed)
+        
         retrieved_docs = retrieve_docs(user_query)
 
-        # Get AI response
+   
         response_text = answer_query(documents=retrieved_docs, model=llm_model, query=user_query)
         final_answer = parse_response(response_text)
 
