@@ -1,2 +1,2 @@
-# NYAYA_GPT
-law-gpt  fine tuned model
+# LexGuard
+LexGuard: AI-Powered Legal Assistant

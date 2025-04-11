@@ -1,0 +1,33 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment file
+.env
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore model/vector database files (if auto-generated)
+*.pkl
+*.db
+*.faiss
+*.npy
+
+# Ignore logs
+*.log
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit or Gradio cache (if you ever use them)
+.streamlit/
+.gradio/
+
+
