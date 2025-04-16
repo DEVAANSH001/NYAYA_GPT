@@ -1,2 +1,2 @@
-# LexGuard
-LexGuard: AI-Powered Legal Assistant
+# Nyaya_gpt
+Nyayagpt: AI-Powered Legal Assistant
