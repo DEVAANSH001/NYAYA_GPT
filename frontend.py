@@ -50,7 +50,7 @@ with st.sidebar:
         """
     )
 
-st.title("LexGaurd")
+st.title("Nyaya_gpt")
 
 with st.form(key="chat_form", clear_on_submit=True):
     user_query = st.text_area("Enter your prompt:", height=150, placeholder="Ask Anything!")
