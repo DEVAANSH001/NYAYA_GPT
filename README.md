@@ -16,17 +16,29 @@ NyayaGPT is an AI-powered legal assistant specializing in Indian law, combining:
 
 <div align="center">
   <figure>
-    <img src="img.png" alt="Main Interface" width="400">
+    <img src="img.png" alt="Main Interface" width="400"><br>
     <figcaption>Fig 1. Chat Interface</figcaption>
   </figure>
+</div>
 
-  /n
-  
+<br>
+
+<div align="center">
   <figure>
-    <img src="img2.png" alt="PDF Analysis" width="400">
+    <img src="img2.png" alt="PDF Analysis" width="400"><br>
     <figcaption>Fig 2. Document Analysis</figcaption>
   </figure>
 </div>
+
+<br>
+
+<div align="center">
+  <figure>
+    <img src="img3.png" alt="Architecture" width="400"><br>
+    <figcaption>Fig 3. Architecture</figcaption>
+  </figure>
+</div>
+
 
 ## 🚀 Features
 
