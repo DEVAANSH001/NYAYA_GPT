@@ -111,7 +111,6 @@ referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
 requests-toolbelt==1.0.0
-
 rpds-py==0.22.3
 safetensors==0.5.2
 scikit-learn==1.6.1
@@ -127,7 +126,7 @@ soupsieve==2.6
 SQLAlchemy==2.0.38
 sqlparse==0.5.3
 starlette==0.45.3
-
+streamlit==1.42.0
 sympy==1.13.1
 tenacity==9.0.0
 threadpoolctl==3.5.0
@@ -152,8 +151,6 @@ wsproto==1.2.0
 yarl==1.18.3
 zstandard==0.23.0
 
-streamlit==1.42.0
-langchain==0.3.18
 langchain-google-genai==0.0.5
 langchain-huggingface==0.0.3
-rich==13.7.1
+rich<14,>=13.0.0
